@@ -31,7 +31,7 @@ Before you begin, you'll need:
 1. Clone the repository:
 ```bash
 git clone https://github.com/braidpay/donation
-cd your-repo-name
+cd donation
 ```
 
 2. Install dependencies:

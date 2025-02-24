@@ -2,7 +2,7 @@
 
 A donation website built with Next.js, Shadcn UI, and Tailwind CSS, integrated with BraidPay for secure USDC donations.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/braidpay/donation)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/braidpay/Code-Sample-Donation)
 
 ## Features
 
@@ -30,7 +30,7 @@ Before you begin, you'll need:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/braidpay/donation
+git clone https://github.com/braidpay/Code-Sample-Donation
 cd donation
 ```
 

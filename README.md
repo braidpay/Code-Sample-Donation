@@ -2,7 +2,7 @@
 
 A donation website built with Next.js, Shadcn UI, and Tailwind CSS, integrated with BraidPay for secure USDC donations.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/your-repo-name)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/braidpay/donation)
 
 ## Features
 
@@ -13,6 +13,9 @@ A donation website built with Next.js, Shadcn UI, and Tailwind CSS, integrated w
 - ⚡ Built with Next.js for optimal performance
 - 🖼️ Interactive image gallery
 - 📊 Live donation statistics
+
+# Live Demo
+[Demo](http://impact.braidpay.com/lafire)
 
 ## Prerequisites
 
@@ -27,7 +30,7 @@ Before you begin, you'll need:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/braidpay/donation
 cd your-repo-name
 ```
 
